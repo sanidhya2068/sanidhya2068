@@ -1,13 +1,14 @@
-# Hi there, I'm Sanidhya! 👋
+# Hi there, I'm Sanidhya Singh Rathore! 👋
 
 ### 👨‍💻 About Me
-- 🚀 I am a passionate developer exploring new technologies.
-- 🎓 Learning computer science and software development.
-- 💡 Interested in building innovative projects and solving problems.
+- 🎓 **Education:** 1st Year Computer Science Student at **Poornima University**
+- 📍 **Location:** Jhalawar, Rajasthan, India
+- 🚀 **My Tech Journey:** I have already learnt **Python** and now I am passionately mastering **C++** basics!
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** PYTHON , C++.
-- **Tools:** Git, GitHub, VS Code
-  
+- 🐍 **Languages Learnt:** Python
+- 💻 **Currently Learning:** C++ (Basics)
+- 🛠️ **Tools:** Git, GitHub
+
 ### 📬 Connect with Me
 - 📸 **Instagram:** [@itz__sanidhya201](https://instagram.com)
