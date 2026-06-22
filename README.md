@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Sanidhya! 👋
 
-<!--
-**sanidhya2068/sanidhya2068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🚀 I am a passionate developer exploring new technologies.
+- 🎓 Learning computer science and software development.
+- 💡 Interested in building innovative projects and solving problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** PYTHON , C++.
+- **Tools:** Git, GitHub, VS Code
+  
+### 📬 Connect with Me
+- 📸 **Instagram:** [@itz__sanidhya201](https://instagram.com)
