@@ -8,7 +8,7 @@
 ### 🛠️ Tech Stack & Skills
 - 🐍 **Languages Learnt:** Python
 - 💻 **Currently Learning:** C++ (Basics)
-- 🛠️ **Tools:** Git, GitHub
+- 🛠️ **Tools:** Git, GitHub, leetcode
 
 ### 📬 Connect with Me
 - 📸 **Instagram:** [@itz__sanidhya201](https://instagram.com)
