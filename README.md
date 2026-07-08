@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Education:** 1st Year Computer Science Student at **Poornima University**
-- 📍 **Location:** Jhalawar, Rajasthan, India
+- 📍 **Location:** Jhalawar, Rajasthan, India.
 - 🚀 **My Tech Journey:** I have already learnt **Python** and now I am passionately mastering **C++**!
 
 ### 🛠️ Tech Stack & Skills
