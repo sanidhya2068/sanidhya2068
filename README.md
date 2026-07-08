@@ -7,7 +7,7 @@
 
 ### 🛠️ Tech Stack & Skills
 - 🐍 **Languages Learnt:** Python
-- 💻 **Currently Learning:** C++, Data Structures & Algorithms
+- 💻 **Currently Learning:** C++, Data Structures & Algorithms.
 - 🛠️ **Tools:** Git, GitHub, leetcode, linkedin.
 
 ### 📬 Connect with Me
