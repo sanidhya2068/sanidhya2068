@@ -12,3 +12,4 @@
 
 ### 📬 Connect with Me
 - 📸 **Instagram:** [@itz__sanidhya201](https://instagram.com)
+- 💼 **LinkedIn:** [Sanidhya Singh Rathore](http://linkedin.com)
